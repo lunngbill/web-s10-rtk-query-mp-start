@@ -1,5 +1,6 @@
 import { createSlice } from '@reduxjs/toolkit'
 
+
 const initialState = {
   displayAllQuotes: true,
   highlightedQuote: null,
